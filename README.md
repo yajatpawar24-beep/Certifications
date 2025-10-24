@@ -7,8 +7,8 @@ Each certificate represents a milestone in my journey of learning, innovation, a
 
 ## 🎓 Featured Certifications
 
-| 📜 Certificate | 🏢 Issued By | 📅 Date | 🔗 Verification |
-|----------------|-------------|----------|----------------|
+| 📜 Certificate | 🏢 Issued By |
+|----------------|-------------|
 | **The Origins II: CSS** | Codédex 
 | **Python (Basic + Intermediate)**<br>Includes NumPy & Pandas | Codédex | 
 | **The Origins I: HTML** | Codédex |
